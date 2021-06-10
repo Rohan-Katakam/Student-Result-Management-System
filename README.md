@@ -1,1 +1,3 @@
 # Student-Result-Management-System
+It is a C++ Project
+Inorder to obtain results, reports are needed to be created manually and given to students to showcase their academic performance. Preparing these reports for many students involves repetition as the same task need to be performed every time. As this work involves doing calculation on same rules to make final results for each results and writing it manually on reports using pen and paper. So, to avoid such type of repeated work, by using computer we can save a lot of time. School authorities have to just enter only marks of each subject for every students and the remaining work like calculation will be done by computer.
